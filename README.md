@@ -11,3 +11,5 @@ Bu proje, React Native kullanılarak geliştirilmiş basit bir Todo List uygulam
 ❌ Silme: Göreve basılı tutarak silebilir.
 
 📊 Sayaç: Mevcut görev sayısını gösterir.
+
+
